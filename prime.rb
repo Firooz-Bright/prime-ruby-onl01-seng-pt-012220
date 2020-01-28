@@ -10,4 +10,4 @@ def prime (n)
 	end 
 	return is_prime
 end 
-end 
+
