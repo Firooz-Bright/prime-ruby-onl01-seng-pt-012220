@@ -1,7 +1,7 @@
 def prime (n)
 	is_prime = true
 	if n==2 
-	for i in 2..n
+	for i in 2..n-1
 		if n%i==0
 			is_prime=false 
 		end 
